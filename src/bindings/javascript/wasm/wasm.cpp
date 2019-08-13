@@ -1,7 +1,7 @@
 #include <vector>
 #include <iterator>
 #include <emscripten/bind.h>
-#include "../lib/fibonacci.cpp"
+#include "../../../libProject/fibonacci.cpp"
 
 using namespace emscripten;
 
