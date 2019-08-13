@@ -2,7 +2,7 @@
 #include <string>
 #include <napi.h>
 
-#include "../lib/fibonacci.cpp"
+#include "../../../libProject/fibonacci.cpp"
 
 using namespace Napi;
 
